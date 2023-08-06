@@ -1,6 +1,5 @@
 
-### Hi there 👋👩‍💻
-# I am Sabina Pun
+## Hi there, I am Sabina Pun 👋👩‍💻
 <hr>
 <!--
 **sabinapun1/sabinapun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
